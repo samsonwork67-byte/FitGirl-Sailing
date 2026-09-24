@@ -190,3 +190,6 @@ FuckingFast-Batch-Downloader/
 This project is provided for educational and browser-automation purposes. Users are responsible for complying with applicable laws, website terms of service, and copyright requirements.
 
 The script does not bypass CAPTCHA, Cloudflare verification, authentication, or other access-control mechanisms.
+
+👨‍💻 Developer
+Samson Pang Chong Bing
